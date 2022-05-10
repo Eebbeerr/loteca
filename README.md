@@ -17,7 +17,7 @@ contados como acertos
 4. [ ] Deixar responsivo
 
 ## Disponibilizado em
-[GitHubPages]()
+[GitHubPages](https://eebbeerr.github.io/loteca/)
 
 ## Print da tela
 
